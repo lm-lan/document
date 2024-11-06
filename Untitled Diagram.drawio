@@ -74,7 +74,7 @@
           <mxGeometry x="30" y="240" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pm4G6BLMfo7lAtNOBMgH-26" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="175" y="60" width="550" height="52" as="geometry" />
+          <mxGeometry x="175" y="40" width="550" height="72" as="geometry" />
         </mxCell>
         <mxCell id="pm4G6BLMfo7lAtNOBMgH-27" value="数组 Node&amp;lt;K,V&amp;gt; [ ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="385" y="10" width="130" height="30" as="geometry" />
